@@ -3,12 +3,12 @@ Themed React Native components using [styled-components](https://github.com/styl
 
 ## Installation
 ```
-yarn add @365rm/react-native-theme
+yarn add @365smart/react-native-theme
 ```
 
 ## Usage
 ```
-import Components, { ThemeProvider } from '@365rm/react-native-theme'
+import Components, { ThemeProvider } from '@365smart/react-native-theme'
 import React from 'react'
 
 const { View, Text } = Components
@@ -32,7 +32,7 @@ import {
   ThemeProvider,
   View,
   withStyledSystem,
-} from '@365rm/react-native-theme'
+} from '@365smart/react-native-theme'
 import React from 'react'
 import { Image } from 'react-native'
 

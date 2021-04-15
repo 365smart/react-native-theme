@@ -961,9 +961,9 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
-"@365rm/react-native-theme@^0.0.1":
+"@365smart/react-native-theme@^0.0.1":
   version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@365rm/react-native-theme/-/react-native-theme-1.0.2.tgz#a1e063ddd344629bf13379fd2599607c299a54c5"
+  resolved "https://registry.yarnpkg.com/@365smart/react-native-theme/-/react-native-theme-1.0.2.tgz#a1e063ddd344629bf13379fd2599607c299a54c5"
   integrity sha512-Odnc2rmQRVvo6NK/LK4T43+ehGKZbgGRO/xYl5UkUn40KmoOCu5ZrTGAPgQD7w6lLbzhj8GvxfeXCuKkxKU8Rg==
   dependencies:
     prop-types "^15.7.2"

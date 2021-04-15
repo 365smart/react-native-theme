@@ -17,7 +17,7 @@ import {
   Text,
   useColorScheme,
 } from 'react-native';
-import {ThemeProvider, View} from '@365rm/react-native-theme';
+import {ThemeProvider, View} from '@365smart/react-native-theme';
 
 import {
   Colors,

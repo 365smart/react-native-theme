@@ -5,7 +5,7 @@ import {
   ThemeProvider,
   View,
   withStyledSystem,
-} from '@365rm/react-native-theme'
+} from '@365smart/react-native-theme'
 import React from 'react'
 import { Image } from 'react-native'
 

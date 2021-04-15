@@ -1,8 +1,8 @@
 {
-  "name": "@365rm/react-native-theme",
+  "name": "@365smart/react-native-theme",
   "version": "0.0.1",
   "description": "React Native Theme",
-  "homepage": "https://github.com/mattreiss/react-native-theme",
+  "homepage": "https://github.com/365smart/react-native-theme",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "author": "Matt Reiss <imattreiss@gmail.com>",

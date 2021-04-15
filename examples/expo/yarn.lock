@@ -1646,7 +1646,7 @@
     "@babel/runtime" "^7.7.2"
     regenerator-runtime "^0.13.3"
 
-"@365rm/react-native-theme@../../lib":
+"@365smart/react-native-theme@../../lib":
   version "1.0.1"
   dependencies:
     prop-types "^15.7.2"
